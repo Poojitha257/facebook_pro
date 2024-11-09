@@ -1,3 +1,5 @@
 login module
 user name 
 password
+phone number 
+email
